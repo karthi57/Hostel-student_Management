@@ -24,4 +24,4 @@ Manage Students: Add, edit, or remove student records.
  **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/hostel-student_Management.git
+   git clone https://github.com/karthi57/hostel-student_Management.git
